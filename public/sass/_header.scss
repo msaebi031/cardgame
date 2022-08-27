@@ -1,0 +1,42 @@
+
+// navbar
+.MuiMenu-paper {
+     background: rgba(196, 196, 196, 0.18) !important;
+     backdrop-filter: blur(12px) !important;
+}
+.bg-navbar {
+    background: rgba(50, 50, 50, 0.27) !important;
+    backdrop-filter: blur(10px) !important;
+}
+
+.flexgrow-0 {
+    flex-grow: 0 !important;
+}
+
+.avatar-nav {
+    height: 46px !important;
+    width: 23px !important;
+}
+
+// navbar
+
+
+
+// content
+// btn
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.content-button img{
+    height: 86%;
+    width: 109%;
+}
+
+// .content-button:hover{
+
+// }
+// btn
+
+// content
